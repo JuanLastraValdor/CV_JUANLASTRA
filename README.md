@@ -1,2 +1,2 @@
-# CV_JUANLASTRA
-Mi CV
+# CV Juan Lastra
+En este blog encontraréis mi experiencia laboral.
